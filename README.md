@@ -1,4 +1,4 @@
-# project-euler
+# project_euler
 Code and explanations for Project Euler problems
 
 <img src="https://github.com/polyfy/polylith/blob/master/images/logo.png" width="30%" alt="Polylith" id="logo">
