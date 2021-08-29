@@ -1,0 +1,10 @@
+{:vcs {:name "git" :auto-add true}
+ :top-namespace "brain-fuel.project-euler"
+ :interface-ns "interface"
+ :default-profile-name "default"
+ :compact-views #{}
+ :tag-patterns {:release "v[0-9]*"
+                :stable  "stable-*"}
+ :projects {"development" {:alias "dev"}
+            "project_euler" {:alias "app"}
+            "project_euler-lib" {:alias "lib"}}}
